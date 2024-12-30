@@ -16,7 +16,7 @@ width = "300"/></h1>
 🌱 I’m currently learning Flutter  and Web Development
  <br>
 
-📫 How to reach me bibinoottukulathil@gmail.com
+📫 How to reach me bibinofficial23@gmail.com
 
 ⚡ Fun fact The first computer “bug” was an actual real-life bug
 
@@ -47,7 +47,7 @@ width = "300"/></h1>
  <hr>
  <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BIBS23&title=MultiLanguage,Commits,Stars,Repositories,Followers,PullRequest,Organizations&column=7&no-frame=true&no-bg=true&theme=algolia&row=2" alt="BIBS23" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bibs06&title=MultiLanguage,Commits,Stars,Repositories,Followers,PullRequest,Organizations&column=7&no-frame=true&no-bg=true&theme=algolia&row=2" alt="bibs06" /></a> </p>
 <br>
 
 <div>
@@ -71,12 +71,12 @@ width = "300"/></h1>
 <p align=center>
   <div align=center>
   <br>
-    <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=BIBS23&theme=react&hide_border=true&bg_color=0D1117" alt="BIBS23" />
-    <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=BIBS23&show_icons=true&count_private=true&theme=react&border_color=61dafb&hide_border=true&count_private=true&show_icons=false" />
+    <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=bibs06&theme=react&hide_border=true&bg_color=0D1117" alt="BIBS23" />
+    <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=bibs06&show_icons=true&count_private=true&theme=react&border_color=61dafb&hide_border=true&count_private=true&show_icons=false" />
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BIBS23&show_icons=true&count_private=true&langs_count=10&hide=ruby&locale=en&layout=compact&hide_border=true&theme=react" alt="BIBS23" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BIBS23&show_icons=true&count_private=true&langs_count=10&hide=ruby&locale=en&layout=compact&hide_border=true&theme=react" alt="bibs06" />
   <br>
   <br>
  <hr>
@@ -84,12 +84,12 @@ width = "300"/></h1>
  <h1 align="center">Favourite Repo</h1>
  
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/BIBS23/Hotstar-Clone" title="Hotstar-Clone"><img align="left" height="115" width = "330" src="https://github-readme-stats.vercel.app/api/pin/?username=BIBS23&repo=Hotstar-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/BIBS23/Netflix" title="Netflix"><img align="right" height="115" width = "330" src="https://github-readme-stats.vercel.app/api/pin/?username=BIBS23&repo=Netflix&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/bibs06/Hotstar-Clone" title="Hotstar-Clone"><img align="left" height="115" width = "330" src="https://github-readme-stats.vercel.app/api/pin/?username=BIBS23&repo=Hotstar-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/bibs06/Netflix" title="Netflix"><img align="right" height="115" width = "330" src="https://github-readme-stats.vercel.app/api/pin/?username=BIBS23&repo=Netflix&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
  
  <div width="100%" align="center">
-  <a align="left" href="https://github.com/BIBS23/Expensify-MoneyManagementApp-using-Flutter-with-backend" title="Expensify"><img align="left" height="115" width = "330" src="https://github-readme-stats.vercel.app/api/pin/?username=BIBS23&repo=Expensify-MoneyManagementApp-using-Flutter-with-backend&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/BIBS2/Expensify-MoneyManagementApp-using-Flutter-with-backend" title="Expensify"><img align="left" height="115" width = "330" src="https://github-readme-stats.vercel.app/api/pin/?username=BIBS23&repo=Expensify-MoneyManagementApp-using-Flutter-with-backend&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/BIBS23/Spotify-clone" title="Spotify-clone"><img align="right" height="115" width = "330" src="https://github-readme-stats.vercel.app/api/pin/?username=BIBS23&repo=Spotify-clone&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
  
